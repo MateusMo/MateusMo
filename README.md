@@ -13,7 +13,7 @@
 </div>
   <div> 
     <p align="center">
-      <a href="https://abhigyantrips.dev/">
+      <a href="https://github.com/MateusMo">
         <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=MateusMo&theme=tokyonight" />
       </a>
     </p>
