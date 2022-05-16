@@ -9,7 +9,7 @@
 ### Language Skills
 - 😃 Portuguese native speaker
 - 😁 I can keep a conversation in English (B2)
-- 😂 you can keep a conversation in Spanish (I'll get it)
+- 😂 You can keep a conversation in Spanish (I'll get it)
 
 ##
 
