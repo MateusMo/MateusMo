@@ -1,14 +1,10 @@
 ### Hello, I'm Mateus 👋
 
-##
-
 ## About me
 - ☕ I must confess that for each line of code here there's a coffee cup behind it
 - 🚢 Currently coding to the Offshore industry
 - 🌎 Open to collaborate on or build non profitable international projects in Angular/Dotnet
 - 📫 How to reach me: https://www.linkedin.com/in/mateus-marques-oliveira/
-
-##
 
 ## Language Skills
 - 😃 Portuguese native speaker
