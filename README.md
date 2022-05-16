@@ -1,7 +1,8 @@
 ### Hello, I'm Mateus 👋
 
-- 🔭 I’m currently working on https://github.com/MateusMo/FrankfurterApi
-- 🌱 I’m currently learning more about Dotnet and Angular
+- ☕ I must confess that for each line of code here there's a coffee cup behind it
+- 🚢 Currently coding to the Offshore industry
+- 🌎 Open to collaborate on or build non profitable international projects in Angular/Dotnet
 - 📫 How to reach me: https://www.linkedin.com/in/mateus-marques-oliveira/
 
 ##
