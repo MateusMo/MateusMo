@@ -1,15 +1,15 @@
-## Hello, I'm Mateus 👋
+## Hi there, I'm Mateus 👋
 
 ### About me
-- ☕ I must confess that for each line of code here there's a coffee cup behind it
-- 🪙 Currently coding to the Financial Market
-- 🌎 Open to collaborate on or build non profitable international projects in Angular/Dotnet
-- 📫 How to reach me: https://www.linkedin.com/in/mateus-marques-oliveira/
+- ☕ Each line of code here is fueled by a cup of coffee
+- 🪙 Currently coding for the Financial Market
+- 🌎 Open to collaborate on or build non-profit international projects in Angular/Dotnet
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mateus-marques-oliveira/)
 
 ### Language Skills
-- 😃 Portuguese native speaker
-- 😁 I can keep a conversation in English (B2)
-- 😂 You can keep a conversation in Spanish (I'll get it)
+- 😃 Native Portuguese speaker
+- 😁 English (B2 level)
+- 😂 Can hold a conversation in Spanish (I'll understand)
 
 ##
 
