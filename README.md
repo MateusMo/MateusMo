@@ -7,9 +7,9 @@
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mateus-marques-oliveira/)
 
 ### Language Skills
-- 😃 Native Portuguese speaker
-- 😁 English (B2 level)
-- 😂 Can hold a conversation in Spanish (I'll understand)
+- Portuguese: Native
+- English: Intermediate
+- Spanish: Begginer
 
 ##
 
