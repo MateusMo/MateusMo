@@ -1,12 +1,12 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=𝕄𝕒𝕥𝕖𝕦𝕤+𝕄𝕒𝕣𝕢𝕦𝕖𝕤;Full-stack+Engineer+%F0%9F%92%BB;Angular+.NET+Specialist;Let's+code+the+future!" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Mateus+Marques;Software+Engineer;Angular+.NET+Specialist;Minimal+Tech+Craftsmanship" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Software%20Engineer-0ff?style=for-the-badge&logo=codingame&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Financial%20Markets-purple?style=for-the-badge&logo=bitcoin&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Angular%20/.NET%20Specialist-cyan?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Software%20Engineer-1a1a1a?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Financial%20Markets-2c2c2c?style=for-the-badge&logo=bitcoin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Angular%20/.NET%20Specialist-343a40?style=for-the-badge&logo=angular&logoColor=white" />
 </p>
 
 ---
@@ -14,13 +14,13 @@
 ## ⚙️ About Me
 
 ```diff
-+ Currently building high-frequency trading systems
-! Focused on performance, scalability, and reactive interfaces
-- Open for collaboration on innovative global projects
++ Building high-performance trading systems
+! Clean, resilient, maintainable software
+- Open to collaboration on impactful projects
 ```
 
-> 🧠 Passionate about building systems that merge speed, design & intelligence  
-> 🚀 Clean Code | Performance | Resilience | Financial-Tech
+> 🧠 Focused on creating fast and intuitive applications for finance and beyond.  
+> 🎯 Driven by purpose, precision, and elegant engineering.
 
 ---
 
@@ -42,44 +42,38 @@
 
 ---
 
-## 🖥️ GitHub Stats
+## 📊 GitHub Overview
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=MateusMo&theme=onedark&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=MateusMo&theme=onedark&column=6&margin-w=5)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MateusMo&theme=react-dark&hide_border=true&area=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=MateusMo&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MateusMo&show_icons=true&theme=vision-friendly-dark&count_private=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMo&layout=compact&theme=vision-friendly-dark&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMo&layout=compact&theme=dark&langs_count=6)
 
 </div>
 
 ---
 
-## 🧠 Philosophy
+## 🧠 Principles
 
 ```diff
-+ Build systems that think
-+ Automate the boring
-+ Secure the edge
-+ Code with intention
++ Thoughtful architecture
++ Automation where it matters
++ Code with clarity and intent
 ```
 
 ---
 
-## 🤖 Let’s Connect
+## 📡 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mateus-marques-oliveira/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mateusmarques.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-<h3 align="center"><code>𝙻𝚎𝚝'𝚜 𝚋𝚞𝚒𝚕𝚍 𝚝𝚑𝚎 𝚏𝚞𝚝𝚞𝚛𝚎 — 𝙱𝚢𝚝𝚎 𝚋𝚢 𝙱𝚢𝚝𝚎 ⚡</code></h3>
+<h3 align="center"><code>Simplicity is the ultimate sophistication.</code></h3>
