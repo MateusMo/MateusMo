@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Mateus+Marques;Software+Engineer;Angular+.NET+Specialist;Minimal+Tech+Craftsmanship" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=MateusMo;Software+Engineer;Angular+.NET+Specialist;Minimal+Tech+Craftsmanship" />
 </h1>
 
 <p align="center">
