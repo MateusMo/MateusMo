@@ -2,6 +2,9 @@
 
 .NET Engineer — backend systems & cloud infrastructure.
 
+> *"A substance is that which is neither said of a subject nor present in a subject."*
+> — Aristóteles, Categoriae
+
 **Stack**
 
 Backend: C#, .NET 6+, ASP.NET Core, REST APIs, Microservices  
@@ -13,5 +16,4 @@ Cloud: Azure, GitHub Actions, CI/CD
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusMo&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true&border_radius=8)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMo&layout=compact&theme=github_dark&hide_border=true&langs_count=6&border_radius=8&hide=html,css,scss)
-
 
